@@ -1,13 +1,3 @@
 Creando un archivo nuevo
 
-etc
-
-etc
-
-bla
-
-bla
-
-bla
-
-...
+Esto es un nuevo archivo de texto con info.
