@@ -1,13 +1,7 @@
 Creando un archivo nuevo
 
-etc
+Esto es un nuevo archivo de texto con info.
 
-etc
+Esta es una segunda modificacion.
 
-bla
-
-bla
-
-bla
-
-...
+Este es commit final
